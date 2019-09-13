@@ -1,23 +1,15 @@
-
-  {
-    "nickname": "erfan",
-    "password": "1234",
-    "email": "erfan@example.com",
-    "phone": "1",
-    "agreement" "true"
-    },
-  {
-    "nickname": "erfa123n",
-    "password": "123sdawd4",
-    "email": "erfssan@example.com",
-    "phone": "1",
-    "agreement" "true"
-    },
-  {
-    "nickname": "erf1232an",
-    "password": "123dawd4",
-    "email": "erwwwfan@example.com",
-    "phone": "1",
-    "agreement" "true"
+{
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": "Sincere@april.biz",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
     }
-
